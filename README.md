@@ -56,11 +56,11 @@ All datasets used in Paper 3 are follows.
 
 ### "Constraint-Induced Symmetric Nonnegative Matrix Factorization for  Accurate Community Detection"
 
-![image-20231009204754031](C:\Users\hu\AppData\Roaming\Typora\typora-user-images\image-20231009204754031.png)
+![image-20231009204754031](https://github.com/Gllab/MF-MindSpore/blob/main/imgs/2.png)
 
 ### "Symmetry and nonnegativity-constrained matrix factorization for community detection"
 
-![ea118b6f1edee11a02624ac2bbe3d31](D:\Tencent\WeChat\Documents\WeChat Files\huqicongya\FileStorage\Temp\ea118b6f1edee11a02624ac2bbe3d31.png)
+![ea118b6f1edee11a02624ac2bbe3d31](https://github.com/Gllab/MF-MindSpore/blob/main/imgs/3.png)
 
 
 
