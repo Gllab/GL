@@ -57,7 +57,7 @@ All datasets used in Paper 3 are follows.
 ### "Constraint-Induced Symmetric Nonnegative Matrix Factorization for  Accurate Community Detection"
 
 <p align="center">
-<img src="imgs/2.png"/>
+<img src="imgs/2.png" width="400px" height="300px"/>
 </p>
 
 ![image-20231009204754031](https://github.com/Gllab/MF-MindSpore/blob/main/imgs/2.png)
