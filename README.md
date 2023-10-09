@@ -19,7 +19,7 @@ This repository is an official MindSpore implementation of our papers:
 
 All datasets used in Paper 1 are follows.
 
-|  Datasets  | $|U|$  |  $|I|$  | $|\Lambda| $ | Data Density |
+|  Datasets  | $|U|$  |  $|I|$  | |Lambda| | Data Density |
 | :--------: | :----: | :-----: | :----------: | :----------: |
 |   ML10M    | 12,547 | 35,250  |      4       |    1.31%     |
 | ExtEpinion | 11,023 | 280,755 |      13      |    0.015%    |
