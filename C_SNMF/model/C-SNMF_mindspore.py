@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn.metrics import adjusted_rand_score, normalized_mutual_info_score, f1_score, v_measure_score
+from sklearn.metrics import adjusted_rand_score, normalized_mutual_info_score, v_measure_score
 from mindspore import Tensor, nn, Parameter, ops, context
 from sklearn.preprocessing import normalize
 from mindspore.ops import operations as P
@@ -13,8 +13,6 @@ class C_SNMF(nn.Cell):
     # 模型初始化
     def __init__(self, num_nodes, n_components, mu, lamda):
         super(C_SNMF, self).__init__()
-        # self.mu = Parameter(Tensor(mu, mnp.float32), name="mu")
-        # self.lamda = Parameter(Tensor(lamda, mnp.float32), name="lamda")
         self.mu = mu
         self.lamda = lamda
         self.n_components = n_components
