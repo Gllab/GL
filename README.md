@@ -40,7 +40,7 @@ All datasets used in this Paper are follows.
 
 "NMI"
 <p align="center">
-<img src="imgs/nmi.png" width="400px" height="300px"/>
+<img src="imgs/nmi.png"/>
 </p>
 
 ## Citation
