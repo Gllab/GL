@@ -25,22 +25,22 @@ All datasets used in this Paper are follows.
 ## Results
 "RMSE & MAE with value of lambda"
 <p align="center">
-<img src="lambda.png" width="400px" height="300px"/>
+<img src="imgs/lambda.png" width="400px" height="300px"/>
 </p>
 
 "RMSE & MAE convergence curve"
 <p align="center">
-<img src="error_convergence.png" width="400px" height="300px"/>
+<img src="imgs/error_convergence.png" width="400px" height="300px"/>
 </p>
 
 "NMI convergence curve"
 <p align="center">
-<img src="nmi_convergence.png" width="400px" height="300px"/>
+<img src="imgs/nmi_convergence.png" width="400px" height="300px"/>
 </p>
 
 "NMI"
 <p align="center">
-<img src="nmi.png" width="400px" height="300px"/>
+<img src="imgs/nmi.png" width="400px" height="300px"/>
 </p>
 
 ## Citation
