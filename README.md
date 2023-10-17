@@ -23,9 +23,24 @@ All datasets used in this Paper are follows.
 |    DBLP     | 12,547 | 35,250  |      4      | DBLP collaboration |
 
 ## Results
-
+"RMSE & MAE with value of lambda"
 <p align="center">
-<img src="metric.png"/>
+<img src="lambda.png"/>
+</p>
+
+"RMSE & MAE convergence curve"
+<p align="center">
+<img src="error_convergence.png"/>
+</p>
+
+"NMI convergence curve"
+<p align="center">
+<img src="nmi_convergence.png"/>
+</p>
+
+"NMI"
+<p align="center">
+<img src="nmi.png"/>
 </p>
 
 ## Citation
